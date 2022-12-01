@@ -1,3 +1,7 @@
+[![Crates.io](https://img.shields.io/crates/v/cbm)](https://crates.io/crates/cbm)
+[![Rust](https://github.com/simmons/cbm/actions/workflows/rust.yml/badge.svg)](https://github.com/simmons/cbm/actions/workflows/rust.yml)
+[![docs.rs](https://img.shields.io/docsrs/cbm)](https://docs.rs/cbm/latest/cbm)
+
 # cbm
 
 This is a Rust library for working with formats found in Commodore Business
